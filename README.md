@@ -1,7 +1,7 @@
 # f22_mlsp
 18-797 Election Challenge 2022
 
-__Contributots:__
+__Contributors:__
 - David Bick dbick@andrew.cmu.edu
 
 - Emmanuel Ndayisaba enn@andrew.cmu.edu
